@@ -24,6 +24,4 @@ challenge? If yes, for how long?
 2. Do you have production experience with JavaScript Frameworks (e.g React.js, Vue.js,
 Angular.js, jQuery, Backbone, Ember etc) prior to the submission of this code challenge?
 If yes, for how long?
-- I have 2 year of Experience in React.js, Node.js as a full stack developer. I have been deploying code through CI/Cd Pipeline from Github to AWS using Code Pipeline:
-
-**Do not forget to add the unit tests.**
+- I have 2 year of Experience in React.js, Angular, Node.js as a full stack developer. I have been deploying code through CI/Cd Pipeline from Github to AWS using Code Pipeline.
