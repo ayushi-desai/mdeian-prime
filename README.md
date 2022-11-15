@@ -19,9 +19,9 @@ This repository has two folder:
 
 1. Do you have production experience with JavaScript prior to the submission of this code
 challenge? If yes, for how long?
-- I have 2 years of production experience in deploying javascript Application using AWS S3,EC2, Elastic Beanstalk.
+- I have more than 2 years of production experience in deploying javascript Application using AWS S3,EC2, Elastic Beanstalk.
 
 2. Do you have production experience with JavaScript Frameworks (e.g React.js, Vue.js,
 Angular.js, jQuery, Backbone, Ember etc) prior to the submission of this code challenge?
 If yes, for how long?
-- I have 2 year of Experience in React.js, Angular, Node.js as a full stack developer. I have been deploying code through CI/Cd Pipeline from Github to AWS using Code Pipeline.
+- I have more than 2 year of Experience in React.js, Angular, Node.js as a full stack developer. I have been deploying code through CI/Cd Pipeline from Github to AWS using Code Pipeline.
